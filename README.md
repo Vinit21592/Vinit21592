@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 You can follow me on LinkedIn [www.linkedin.com/in/vinit-londhe21](www.linkedin.com/in/vinit-londhe21)
+- 👨‍💻 You can follow me on LinkedIn [https://www.linkedin.com/in/vinit-londhe21](https://www.linkedin.com/in/vinit-londhe21)
 
 - 📫 How to reach me **vinit.londhe21@gmail.com**
 
