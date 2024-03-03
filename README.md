@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/vinit05797137" target="blank"><img src="https://img.shields.io/twitter/follow/vinit05797137?logo=twitter&style=for-the-badge" alt="vinit05797137" /></a> </p>
 
-- 🔭 I’m currently learning **Machine Learning**
+- 🔭 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **DS,ML**
+- 💬 Ask me about **DS,ML,DL**
 
 - 📫 How to reach me **vinit.londhe21@gmail.com**
 
